@@ -345,10 +345,6 @@ h1, h2, h3 {
         margin-bottom: 1.5rem;
         position: relative; /* Tambahkan ini agar lingkaran diposisikan dengan benar */
     }
-
-    .profile-pic {
-
-    }
     
     .bg-circle-image {
     position: absolute;
@@ -358,10 +354,10 @@ h1, h2, h3 {
     width: 500px;
     height: 500px;
     border-radius: 50%;
-       /* box-shadow: 
+        box-shadow: 
         0 0 50px rgba(168, 75, 255, 0.7), /* Glow utama, menggunakan warna aksen */
         0 0 100px rgba(168, 75, 255, 0.5), /* Glow yang lebih menyebar */
-        0 0 150px rgba(168, 75, 255, 0.2); */
+        0 0 150px rgba(168, 75, 255, 0.2); 
     }
 
     .hero-title {
@@ -392,4 +388,3 @@ h1, h2, h3 {
     font-size: 2.5rem;
   }
 }
-
